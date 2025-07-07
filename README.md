@@ -44,3 +44,14 @@ Node 5: 6
 ```bash
 g++ src/parallel_dijkstra.cpp -o dijkstra -pthread
 ./dijkstra
+
+---
+
+## 📄 Disclaimer
+
+This project was created during Semester 5 for the **Computer Networks** course. It demonstrates the concept of parallelization of Dijkstra’s shortest path algorithm using C++.
+
+The code and algorithmic model are meant **only for academic understanding and simulation**. They are not optimized for deployment in critical network infrastructure or large-scale systems.
+
+© 2023 **Venkat Aditya Vellanki**. All rights reserved.
+
